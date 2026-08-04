@@ -304,6 +304,8 @@ cor_pvalues <- function(mat) {
 
 p_matrix <- cor_pvalues(mtcars)
 
+p_matrix
+
 # Jeigu yra poreikis, galime suapvalinti p reikšmes
 p_matrix_rounded <- round(p_matrix, 3)
 p_matrix_rounded
