@@ -21,19 +21,20 @@ cor_iris <- cor.test(
 )
 cor_iris
 
-# 3. Nubrėžiame grafiką
+# 3. Nubrėžiame diagramą
 if (!require("ggplot2")) install.packages("ggplot2")
 if (!require("dplyr")) install.packages("dplyr")
 
 library(ggplot2)
 library(dplyr)
 
-# iris - pilno duomenų rinkinio koreliacinė analizė
+# Iris - pilno duomenų rinkinio koreliacinė analizė
 label_iris <- paste0(
   "r = ", round(cor_iris$estimate, 3),
   "\np = ", signif(cor_iris$p.value, 3)
 )
 
+# Brėžiame diagramą
 ggplot(iris, aes(Petal.Length, Petal.Width)) +
   geom_smooth(method = "lm", 
               se = FALSE, 
@@ -104,7 +105,7 @@ if (!require("dplyr")) install.packages("dplyr")
 library(ggplot2)
 library(dplyr)
 
-# setosa
+# Setosa diagrama
 label_setosa <- paste0(
   "r = ", round(cor_setosa$estimate, 2),
   "\np = ", signif(cor_setosa$p.value, 3)
@@ -130,7 +131,7 @@ ggplot(iris_setosa, aes(Petal.Length, Petal.Width)) +
   ) +
   theme_bw(base_size = 14)
 
-# versicolor
+# Versicolor diagrama
 label_versicolor <- paste0(
   "r = ", round(cor_versicolor$estimate, 3),
   "\np = ", signif(cor_versicolor$p.value, 3)
@@ -156,7 +157,7 @@ ggplot(iris_versicolor, aes(Petal.Length, Petal.Width)) +
   ) +
   theme_bw(base_size = 14)
 
-# virginica
+# Virginica diagrama
 label_virginica <- paste0(
   "r = ", round(cor_virginica$estimate, 3),
   "\np = ", signif(cor_virginica$p.value, 3)
@@ -271,7 +272,7 @@ cor_matrix <- cor(
 
 cor_matrix
 
-cor_matrix_rounded <- round(cor_matrix, 3) # < - rezultatai suapvalinami iki 3 skaičių po kablelio
+cor_matrix_rounded <- round(cor_matrix, 3)
 
 cor_matrix_rounded
 
@@ -303,14 +304,13 @@ cor_pvalues <- function(mat) {
 
 p_matrix <- cor_pvalues(mtcars)
 
+# Jeigu yra poreikis, galime suapvalinti p reikšmes
 p_matrix_rounded <- round(p_matrix, 3)
 p_matrix_rounded
 
 # Naudojame write.csv funkciją tam, kad išsisaugotume rezultatus:
-# (prisiminkite, kur jūsų darbinė direktorija - nusistatykite ją)
-getwd()
-
-write.csv(p_matrix_rounded, "correlation_matrix_p.csv", row.names = TRUE)
+# (šiuo atveju išsaugomos nesuapvalintos p reikšmės)
+write.csv(p_matrix, "correlation_matrix_p.csv", row.names = TRUE)
 
 # Jeigu reikšmės atskirtos kabliataškiais
 # naudojame write.csv2
