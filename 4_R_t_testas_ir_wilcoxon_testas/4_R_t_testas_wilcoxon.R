@@ -5,7 +5,7 @@
 View(PlantGrowth)
 head(PlantGrowth)
 
-# Išsirenkame tik dvi grupes - kontrolę ir trt1
+# Išsirenkame tik dvi grupes - kontrolę ir trt2
 subset2 <- subset(PlantGrowth, group %in% c("ctrl", "trt2"))
 
 # Vizualizuojame duomenis:
