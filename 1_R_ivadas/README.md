@@ -22,3 +22,11 @@ Pilną video pamoką rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_l
   * Histogramų (`hist()`) ir Q-Q grafikų (`qqnorm()`, `qqline()`) braižymas.
   * Shapiro-Wilk normalumo testas (`shapiro.test()`).
 * **Grafikų išsaugojimas:** Eksportavimas per RStudio vartotojo sąsają (*Export* mygtuką).
+
+---
+
+Pamokoje naudojami duomenų rinkiniai `zuvu_ilgis_1.csv` ir `zuvu_ilgis_2.csv`.
+
+---
+
+Jeigu turite klausimų, pastebėjimų ar pasiūlymų – rašykite info@biomatika.lt.
