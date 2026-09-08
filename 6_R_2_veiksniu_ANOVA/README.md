@@ -1,6 +1,6 @@
 # 6. R Dviejų veiksnių ANOVA (6_R_2_veiksniu_ANOVA)
 
-Šioje pamokoje susipažinsite su dviejų veiksnių dispersine analize (*Two-Way ANOVA*) R programoje: sužinosite, kaip įvertinti dviejų nepriklausomų kintamųjų poveikį bei jų tarpusavio sąveikos (*interaction*) priklausomam kintamajam.
+Šioje pamokoje susipažinsite su dviejų veiksnių dispersine analize (*Two-Way ANOVA*) RStudio programoje: sužinosite, kaip įvertinti dviejų nepriklausomų kintamųjų poveikį bei jų tarpusavio sąveikos (*interaction*) priklausomam kintamajam.
 
 ## Video įrašas
 [Pilną video įrašą](https://www.youtube.com/watch?v=KVfL8Gi7tYc) rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
