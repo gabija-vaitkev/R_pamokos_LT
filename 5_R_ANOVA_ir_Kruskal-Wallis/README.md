@@ -1,6 +1,6 @@
 # 5. R ANOVA ir Kruskal-Wallis (5_R_ANOVA_ir_Kruskal-Wallis)
 
-Šioje pamokoje susipažinsite su kiekybinių duomenų lyginimo tarp ≥3 kategorinių grupių metodais R programoje: dispersine analize (ANOVA), jos neparametriniu atitikmeniu Kruskal-Wallis testu, post-hoc testais bei rezultatų atvaizdavimu grafikuose su raidiniu reikšmingai besiskiriančių grupių kodavimu (*compact letter display (CLD)*).
+Šioje pamokoje susipažinsite su kiekybinių duomenų lyginimo tarp ≥3 kategorinių grupių metodais RStudio programoje: dispersine analize (ANOVA), jos neparametriniu atitikmeniu Kruskal-Wallis testu, post-hoc testais bei rezultatų atvaizdavimu grafikuose su raidiniu reikšmingai besiskiriančių grupių kodavimu (*compact letter display (CLD)*).
 
 ## Video įrašas
 [Pilną video įrašą](https://www.youtube.com/watch?v=zf8hfBXnnE8) rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
