@@ -3,7 +3,7 @@
 Šioje pamokoje susipažinsite su duomenų vizualizavimo galimybėmis RStudio programoje: nuo paprastų base R grafikų iki išvaizdesnių vizualizacijų su **ggplot2** paketu.
 
 ## Video įrašas
-Pilną video įrašą rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
+[Pilną video įrašą](https://www.youtube.com/watch?v=XkI3yKukYU4) rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
 
 ---
 
