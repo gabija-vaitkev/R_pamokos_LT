@@ -3,7 +3,7 @@
 Šioje pamokoje susipažinsite su koreliacine analize RStudio programoje: sužinosite, kada taikyti Pearson ir Spearman testus, kaip teisingai išskirti duomenų grupes bei kaip sukurti ir vizualizuoti koreliacijų matricas.
 
 ## Video įrašas
-Pilną video įrašą rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
+[Pilną video įrašą](https://www.youtube.com/watch?v=32owcln8OKo&t=70s) rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
 
 ---
 
