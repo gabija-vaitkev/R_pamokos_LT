@@ -1,6 +1,6 @@
 # 2. R grafinis vizualizavimas (2_R_grafinis_vizualizavimas)
 
-Šioje pamokoje susipažinsite su duomenų vizualizavimo galimybėmis R programoje: nuo paprastų base R grafikų iki išvaizdesnių vizualizacijų su **ggplot2** paketu.
+Šioje pamokoje susipažinsite su duomenų vizualizavimo galimybėmis RStudio programoje: nuo paprastų base R grafikų iki išvaizdesnių vizualizacijų su **ggplot2** paketu.
 
 ## Video įrašas
 Pilną video įrašą rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
