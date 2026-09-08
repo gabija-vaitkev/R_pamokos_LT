@@ -1,6 +1,6 @@
 # 4. R t-testas ir Wilcoxon testas (4_R_t_testas_ir_wilcoxon_testas)
 
-Šioje pamokoje susipažinsite su kiekybinių duomenų lyginimo tarp dviejų kategorinių grupių metodais R programoje: nepriklausomais (neporiniais) bei poriniais t-testais ir atitinkamais neparametriniais Wilcoxon testais.
+Šioje pamokoje susipažinsite su kiekybinių duomenų lyginimo tarp dviejų kategorinių grupių metodais RStudio programoje: nepriklausomais (neporiniais) bei poriniais t-testais ir atitinkamais neparametriniais Wilcoxon testais.
 
 ## Video įrašas
 [Pilną video įrašą](https://www.youtube.com/watch?v=bwtTjcMCyXQ&t=2s) rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
