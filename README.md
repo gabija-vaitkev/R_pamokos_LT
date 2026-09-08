@@ -1,9 +1,9 @@
 # R_pamokos_LT
-Lietuviškų R pamokų kodai ir duomenys / Code and data for Lithuanian R tutorials
+Lietuviškų R pamokų kodai ir duomenys / Code and data for Lithuanian R tutorials.
 
 Čia pateikta R statistikos pagrindų pamokų medžiaga lietuvių kalba. 
 
-Visas pamokas su išsamiais paaiškinimais galite rasti **YouTube kanale [BioMatika](https://www.youtube.com/@BioMatika_lt)**.
+Visas pamokas su išsamiais paaiškinimais galite rasti **YouTube kanale [@BioMatika_lt](https://www.youtube.com/@BioMatika_lt)**.
 
 ---
 
@@ -27,9 +27,9 @@ Visas pamokas su išsamiais paaiškinimais galite rasti **YouTube kanale [BioMat
 1. **Atsisiųskite arba klonuokite saugyklą:**
    ```bash
    git clone [https://github.com/gabija-vaitkev/R_pamokos_LT.git](https://github.com/gabija-vaitkev/R_pamokos_LT.git)
-2. **Su RStudio atsidarykite atitinkamos pamokos kodo failus (.R ).**
+2. **Su RStudio atsidarykite atitinkamos pamokos kodo failus (.R).**
 
-3. **Kode pateikti paaiškinimai, bet galite užduotis atlikti kartu žiūrėdami atitinkamą pamoką mūsų YouTube kanale (@BioMatika_lt).**
+3. **Kode pateikti paaiškinimai, bet galite užduotis atlikti kartu žiūrėdami atitinkamą pamoką mūsų YouTube kanale [@BioMatika_lt](https://www.youtube.com/@BioMatika_lt).**
 
 ---
 
