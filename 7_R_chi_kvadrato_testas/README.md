@@ -1,6 +1,6 @@
 # 7. R Chi-kvadrato testas (7_R_chi_kvadrato_testas)
 
-Šioje pamokoje susipažinsite su Chi-kvadrato ($\chi^2$) testu R programoje: sužinosite, kaip analizuoti kategorinius duomenis, sukurti kryžminę lentelę, skaičiuoti dažnius bei proporcijas, vertinti ryšio stiprumą naudojant Kramerio V (Cramér's V) koeficientą ir vizualizuoti rezultatus.
+Šioje pamokoje susipažinsite su Chi-kvadrato ($\chi^2$) testu RStudio programoje: sužinosite, kaip analizuoti kategorinius duomenis, sukurti kryžminę lentelę, skaičiuoti dažnius bei proporcijas, vertinti ryšio stiprumą naudojant Kramerio V (Cramér's V) koeficientą ir vizualizuoti rezultatus.
 
 ## Video įrašas
 [Pilną video įrašą](https://www.youtube.com/watch?v=cBZCdPn9rRU&t=4s) rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
