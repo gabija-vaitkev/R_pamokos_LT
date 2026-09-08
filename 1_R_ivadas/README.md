@@ -4,7 +4,7 @@
 
 ## Video įrašas
 
-Pilną video pamoką rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
+Pilną video įrašą rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_lt) YouTube kanale.
 
 ---
 
