@@ -15,7 +15,7 @@ Pilną video įrašą rasite [@Biomatika_lt](https://www.youtube.com/@Biomatika_
   * Stulpelinės diagramos (`barplot()`).
   * Dėžučių grafikai (`boxplot()`) grupių palyginimui.
   * Sklaidos diagramos (`plot()`) su grupavimu pagal spalvas bei legendos pridėjimu (`legend()`).
-* **Spalvų nustatymas:** Spalvų pavadinimai, HEX kodai, [R Graph Gallery](https://r-graph-gallery.com/ggplot2-c...) resursai ir paletės iš [Color-Hex](https://www.color-hex.com/).
+* **Spalvų nustatymas:** Spalvų pavadinimai, HEX kodai, [R Graph Gallery](https://r-graph-gallery.com/ggplot2-color.html) resursai ir paletės iš [Color-Hex](https://www.color-hex.com/).
 * **ggplot2 paketas:**
   * Paketo diegimas (`install.packages("ggplot2")` arba naudojant vartotojo sąsają per *Packages* kortelę) ir užkrovimas (`library(ggplot2)`).
   * Atitinkamų grafikų (histogramų, stulpelinių, dėžučių ir sklaidos diagramų) kūrimas su `ggplot2`.
