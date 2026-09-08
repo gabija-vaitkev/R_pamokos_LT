@@ -27,6 +27,7 @@ Visas pamokas su išsamiais paaiškinimais galite rasti **YouTube kanale [@BioMa
 1. **Atsisiųskite arba klonuokite saugyklą:**
    ```bash
    git clone [https://github.com/gabija-vaitkev/R_pamokos_LT.git](https://github.com/gabija-vaitkev/R_pamokos_LT.git)
+   ```
 2. **Su RStudio atsidarykite atitinkamos pamokos kodo failus (.R).**
 
 3. **Kode pateikti paaiškinimai, bet galite užduotis atlikti kartu žiūrėdami atitinkamą pamoką mūsų YouTube kanale [@BioMatika_lt](https://www.youtube.com/@BioMatika_lt).**
